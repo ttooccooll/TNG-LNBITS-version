@@ -1,0 +1,57 @@
+label {
+  padding-bottom: 2%;
+}
+
+.buttons {
+  width: 100%;
+  margin: 3%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.button {
+  background: linear-gradient(to right, rgba(9, 70, 238, 0.7) 0%, rgba(9, 70, 238, 1) 50%, rgba(9, 70, 238, 0.7) 100%);
+  border: 0px solid #3787FE;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 1.2rem;
+  font-family: 'MyFont';
+  font-weight: bold;
+  width: 120px;
+  margin: 5px;
+  color: inherit;
+  text-decoration: inherit;
+  cursor: hand;
+}
+
+.a {
+  background: linear-gradient(to right, rgba(9, 70, 238, 0.7) 0%, rgba(9, 70, 238, 1) 50%, rgba(9, 70, 238, 0.7) 100%);
+  border: 0px solid #3787FE;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 1.2rem;
+  font-family: 'MyFont';
+  font-weight: bold;
+  width: 120px;
+  margin: 5px;
+  color: inherit;
+  text-decoration: inherit;
+  cursor: default;
+  display: flex;
+  justify-content: space-around;
+}
+
+.buttons button:hover {
+  cursor: default;
+  opacity: 0.6;
+}
+
+.buttons a:hover {
+  cursor: default;
+  opacity: 0.6;
+}
+
+@font-face {
+  font-family: 'MyFont';
+  src: url('Sterilict-L3aen.ttf') format('truetype');
+}

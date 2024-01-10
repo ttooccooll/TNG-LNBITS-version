@@ -1,0 +1,68 @@
+@font-face {
+  font-family: 'MyFont';
+  src: url('Sterilict-L3aen.ttf') format('truetype');
+}
+
+form {
+  margin: 2% auto;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-family: 'MyFont';
+  background-color: black;
+  color: white;
+}
+
+form {
+  width: 100%;
+  background-color: black;
+}
+
+form .button {
+  margin: 10% auto;
+  color: black;
+}
+
+form .button:hover{
+opacity: .6;
+}
+
+section h6 {
+  text-align: center;
+  font-family: 'MyFont';
+  font-size: large;
+  background-color: black;
+  color: white;
+  position: relative;
+  display: flex;
+  text-align: flex-start;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+}
+
+section p {
+  word-wrap: break-word;
+  font-family: 'MyFont';
+  font-size: 7px;
+  background-color: black;
+  color: white;
+  margin: 10px;
+  position: relative;
+}
+
+.close-button {
+  cursor: crosshair;
+  text-align: end;
+  font-family: 'MyFont';
+  background-color: black;
+  color: white;
+}
+
+.qr-code-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: white;
+}
