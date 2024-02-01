@@ -6,8 +6,8 @@ Big thanks to pleblab and their plebdev course, where I learned how to make ligh
 
 demo: https://youtu.be/eB_v2ZFvUEA
 
-enjoy,
-jason
+enjoy,  
+jason  
 npub1a95w2zch0gqfa0vhlgygz0xklwxccw6st88qkmhsk8d3tke2sqaqamsnzq
 
 
