@@ -2,7 +2,7 @@ This is a UI for an LNBITS wallet that's meant to look like a console from the t
 
 Grab your admin key from an LNBITS wallet and plug it in your environment variables as the value and REACT_APP_X_API_KEY as the key. Then, take a moment to reflect on the fact that I'm accepting no liability for all the money you're going to lose from using this app. Ruminate on it day and night and go on a fast if you don't feel as if you fully apprectiate how silly it would be to put any significant amount of money in here. Then, have fun recieving and sending real sats while LARPing as a crew member aboard an Enterprise grade starship.
 
-Big thanks to pleblab and their plebdev course, where I learned how to make lightning wallets!
+Big thanks to plebdevs.com and their plebdev course, where I learned how to make lightning wallets!
 
 demo: https://youtu.be/eB_v2ZFvUEA
 
