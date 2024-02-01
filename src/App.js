@@ -159,11 +159,11 @@ function App() {
               </a>
               <a 
               className="p"
-              href="https://www.pleblab.com/"
+              href="https://www.plebdevs.com/"
               onClick={playMP3}
               target="_blank"
               rel="noopener noreferrer">
-                P.Lab
+                P.Dev
               </a>
               <a 
               className="p"
