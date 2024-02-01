@@ -32,7 +32,7 @@ in this wallet.
 code? 
  
  - I took the bizarrely affordable plebdev course by 
-pleblab. 
+plebdevs.com. 
 
 
 (III) - Isn’t the whole economic ideology of Star Trek 
