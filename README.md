@@ -4,7 +4,7 @@ Grab your admin key from an LNBITS wallet and plug it in your environment variab
 
 Big thanks to plebdevs.com and their plebdev course, where I learned how to make lightning wallets!
 
-demo: https://youtu.be/eB_v2ZFvUEA
+demo: https://tnglnbits.vercel.app/
 
 enjoy,  
 jason  
